@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/RunMarketAppMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/Category.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/ExpireDateMerchandise.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/GamePointCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/GraphicsCard.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/LittleSuperMarket.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/MerchandiseV2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/supermarket/Phone.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
